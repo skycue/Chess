@@ -1,6 +1,8 @@
 # Chess
 This game is chess on the terminal built using Ruby.
 
+![Screenshot of Chess](screenshot.png)
+
 ## Game Symbols
 | Symbol  | Chess Piece |
 | ------------- | ------------- |
