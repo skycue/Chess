@@ -1,6 +1,8 @@
 # TChess
 TChess is a chess game on the terminal built using Ruby.
 
+![Screenshot of Chess](screenshot.png)
+
 ## Game Symbols
 | Symbol  | Chess Piece |
 | ------------- | ------------- |
