@@ -3,6 +3,12 @@ TChess is a chess game on the terminal built using Ruby.
 
 ![Screenshot of Chess](screenshot.png)
 
+## How to run
+In terminal:
+```
+  ruby game.rb
+```
+
 ## Game Symbols
 | Symbol  | Chess Piece |
 | ------------- | ------------- |
